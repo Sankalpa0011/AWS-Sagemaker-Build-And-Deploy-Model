@@ -1,7 +1,7 @@
 
 ---
 
-# SageMaker Model Building and Deployment
+# AWS SageMaker Model Building and Deployment
 ---
 
 This repository contains a Jupyter notebook that demonstrates how to build, train, and deploy a machine learning model using Amazon SageMaker. The notebook integrates multiple AWS services, such as Lambda, API Gateway, IAM, and S3, to create a complete end-to-end machine learning solution.
