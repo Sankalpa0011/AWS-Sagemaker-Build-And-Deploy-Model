@@ -38,7 +38,7 @@ The project involves the following key steps:
 The project leverages the following AWS services:
 
 - **Lambda**: To create serverless functions that interact with the deployed model.
-- **API Gateway**: To create RESTful APIs that expose the model for external use.
+- **API Gateway**: To create REST API that expose the model for external use.
 - **IAM**: To manage permissions for accessing S3 buckets, Lambda functions, and SageMaker endpoints.
 - **Amazon SageMaker**: To build, train, and deploy machine learning models.
 - **S3**: To store datasets, training results, and model artifacts.
