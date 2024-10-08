@@ -47,7 +47,7 @@ The project leverages the following AWS services:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/Sankalpa0011/AWS-Sagemaker-Build-And-Deploy-Model.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -59,7 +59,7 @@ The project leverages the following AWS services:
    ```
 4. Open the notebook:
    ```bash
-   jupyter notebook "Sagemaker Build And Deploy Model.ipynb"
+   jupyter notebook "AWS-Sagemaker-Build-And-Deploy-Model.ipynb"
    ```
 
 ## Notebook Structure
